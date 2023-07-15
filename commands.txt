@@ -1,12 +1,12 @@
 git init-> to initialize git on project 
 
-git add ->A to add files to staged state(now git tracking all files)
+git add -A -> to add files to staged state(now git tracking all files)
 
-git commit
+git commit -m "Message"
+
+git log-> Show all commit date and time messages
 
 git branch
-
-git log
 
 git diff
 
